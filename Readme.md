@@ -1,4 +1,4 @@
-# QA Chatbot - Your First Chatbot with Generative AI
+# QA Chatbot - Chatbot with Generative AI
 
 ## Project Overview
 This project is a **QA Chatbot** built using **Python**, **Streamlit**, and **Google Generative AI** (Gemini Pro). The chatbot interacts with users by answering questions in real-time, utilizing advanced natural language processing capabilities provided by the Gemini Pro model.
